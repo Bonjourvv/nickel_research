@@ -45,8 +45,8 @@ from src.data_fetcher.ths_client import TonghuashunClient
 REFRESH_INTERVAL = 30  # 页面刷新间隔（秒）
 
 NAME_MAP = {
-    "NIZL.SHF": ("沪镍主力", "ni"),
-    "SSZL.SHF": ("不锈钢主力", "ss"),
+    "NIZL.SHF": ("沪镍主连", "ni"),
+    "SSZL.SHF": ("不锈钢主连", "ss"),
 }
 
 MACRO_INDICATORS = {
