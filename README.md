@@ -47,7 +47,7 @@ pip3 install -r requirements.txt
 
 **方法 A（推荐）：网页版**
 1. 打开：https://quantapi.10jqka.com.cn/gwstatic/static/ds_web/super-command-web/index.html#/AccountDetails
-2. 用公司账号登录（xmxy399 / 415b47）
+2. 用账号登录
 3. 页面上能看到 refresh_token，复制它
 
 **方法 B：Windows 超级命令工具**
